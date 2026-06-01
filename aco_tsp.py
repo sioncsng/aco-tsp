@@ -384,7 +384,7 @@ def main():
 
     # Hasil final
     print("\n" + "=" * 60)
-    print("  BEST RESULT")
+    print("  HASIL AKHIR")
     print("=" * 60)
 
     if path is None:
